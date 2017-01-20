@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Rules_Test" tests="7" skipped="0" failures="0" errors="0" timestamp="2017-01-20T15:18:55" hostname="COMPOZED-NBT-16" time="0.003">
+  <properties/>
+  <testcase name="GenerateDuplicatePackingSlip_Book" classname="Rules_Test" time="0.001"/>
+  <testcase name="GenerateCommissionPaymentToAgent" classname="Rules_Test" time="0.0"/>
+  <testcase name="ActivateMembership" classname="Rules_Test" time="0.0"/>
+  <testcase name="AddAidPackingSlip" classname="Rules_Test" time="0.0"/>
+  <testcase name="GeneratePackingSlip" classname="Rules_Test" time="0.0"/>
+  <testcase name="EmailOwner_MembershipRule" classname="Rules_Test" time="0.0"/>
+  <testcase name="UpgradeMembership" classname="Rules_Test" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
